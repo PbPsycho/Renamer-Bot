@@ -31,7 +31,7 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 
 ### Video For how to  deploy to heroku. 
 
-[CLICK HERE FOR WATCHING THE TUTORIAL VIDEO](https://www.youtube.com/watch?v=2FHgg8o1YY8) 
+[CLICK HERE FOR WATCHING THE TUTORIAL VIDEO](https://youtube.com/channel/UC9ojGc92Hmc-7OLI_feMY7g) 
 
 ### Deploy To Heroku. 
 
